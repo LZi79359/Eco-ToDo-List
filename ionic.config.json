@@ -1,0 +1,7 @@
+{
+  "name": "HomeAssignment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
